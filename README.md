@@ -1,4 +1,4 @@
-# Vue/Nuxt web3 projects
+# Web3 and DeFi projects built with Vue/Nuxt
 
 A list of web3 projects built with [Vue](https://vuejs.org/)/[Nuxt](https://nuxtjs.org/). Feel free to open a PR to add more projects to the list.
 
@@ -30,7 +30,7 @@ _Stack: Vue, Nuxt, Vuetify, Element UI, Ethers_
 ### Communication
 
 **[Ethermail](https://ethermail.io/)**  
-Decentralized email service  
+Decentralized email service.  
 _Stack: Vue, Nuxt, Tailwind, Bootstrap_
 
 ## More
