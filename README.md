@@ -8,3 +8,6 @@ Stack info is taken from [Weppalyzer](https://www.wappalyzer.com/).
 
 **[Snapshot](https://snapshot.org/)**  
 Stack: Vue, Tailwind, Headless UI
+
+**[zkSync](https://zksync.io)**  
+Stack: Vue, Nuxt, Headless UI, ethers
