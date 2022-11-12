@@ -12,14 +12,20 @@ Stack info is taken from [Weppalyzer](https://www.wappalyzer.com/).
 ### Layer 2/3 scaling
 
 **[zkSync](https://zksync.io)**  
-Layer 2 and 3 scaling solution for Ethereum  
-_Stack: Vue, Nuxt, Headless UI, ethers_
+Layer 2 and 3 scaling solution for Ethereum.  
+_Stack: Vue, Nuxt, Headless UI, Ethers_
 
 ### Governance
 
 **[Snapshot](https://snapshot.org/)**  
-Decentralized governance platform  
+Decentralized governance platform.  
 _Stack: Vue, Tailwind, Headless UI_
+
+### Credentials
+
+**[Galxe](https://galxe.com)**  
+Collaborative credential infrastructure for brands and communities.  
+_Stack: Vue, Nuxt, Vuetify, Element UI, Ethers_
 
 ### Communication
 
@@ -29,6 +35,6 @@ _Stack: Vue, Nuxt, Tailwind, Bootstrap_
 
 ## More
  
-### Things I'd love to see
+### Stuff I'd love to see
 
 -  [Zapper](https://zapper.fi/) built with Nuxt
