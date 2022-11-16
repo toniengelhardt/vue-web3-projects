@@ -9,7 +9,7 @@ Stack info is taken from [Weppalyzer](https://www.wappalyzer.com/).
 
 ## Projects
 
-### Layer 2/3 scaling
+### Layer 2+ scaling
 
 **[zkSync](https://zksync.io)**  
 Layer 2 and 3 scaling solution for Ethereum.  
@@ -36,7 +36,7 @@ _Stack: Vue, Nuxt, Tailwind, Bootstrap_
 ### Automation
 
 **[Gelato](https://www.gelato.network)**  
-Augmented smart contracts that are automated, gasless & off-chain aware  
+Augmented smart contracts that are automated, gasless & off-chain aware.  
 _Stack: Vue, Nuxt, Tailwind, Ethers, Vercel_
 
 
