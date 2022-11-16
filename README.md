@@ -33,6 +33,13 @@ _Stack: Vue, Nuxt, Vuetify, Element UI, Ethers_
 Decentralized email service.  
 _Stack: Vue, Nuxt, Tailwind, Bootstrap_
 
+### Automation
+
+**[Gelato](https://www.gelato.network)**  
+Augmented smart contracts that are automated, gasless & off-chain aware  
+_Stack: Vue, Nuxt, Tailwind, Ethers, Vercel_
+
+
 ## More
  
 ### Stuff I'd love to see
