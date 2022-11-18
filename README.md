@@ -7,7 +7,7 @@ If you want to get serious about web3 or just play around with it but cannot com
 
 Stack info is taken from [Weppalyzer](https://www.wappalyzer.com/).
 
-Stats and insights for this repository via [RepoTracker](https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects).
+Get sats and insights for this repository on [RepoTracker](https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects).
 
 ## Projects
 
