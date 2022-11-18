@@ -27,6 +27,12 @@ _Stack: Vue, Nuxt, Headless UI, Ethers_
 Decentralized governance platform.  
 _Stack: Vue, Tailwind, Headless UI_
 
+### Science
+
+** [VitaDAO](https://dao.vitadao.com/)**  
+Collectively funded longevity research.  
+_Stack: Vue, Tailwind_
+
 ### Credentials
 
 **[Galxe](https://galxe.com)**  
