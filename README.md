@@ -29,7 +29,7 @@ _Stack: Vue, Tailwind, Headless UI_
 
 ### Science
 
-** [VitaDAO](https://dao.vitadao.com/)**  
+**[VitaDAO](https://dao.vitadao.com/)**  
 Collectively funded longevity research.  
 _Stack: Vue, Tailwind_
 
