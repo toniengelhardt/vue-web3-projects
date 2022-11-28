@@ -11,6 +11,12 @@ Get statistics and insights for this repository on [RepoTracker](https://repo-tr
 
 ## Projects
 
+### Wallets
+
+**[MyEtherWallet](https://www.myetherwallet.com/)**  
+Ethereum's Original Wallet.  
+_Stack: Vue_
+
 ### Layer 2+ scaling
 
 **[Polygon](https://polygon.technology/)**  
