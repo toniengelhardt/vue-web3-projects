@@ -67,4 +67,4 @@ _Stack: Vue, Bootstrap, UI Kit_
  
 Stuff I'd love to see:
 
--  [Zapper](https://zapper.fi/) / [Zerion](https://app.zerion.io/) built with Nuxt.
+-  [Zapper](https://zapper.fi/) / [Zerion](https://app.zerion.io/) built with Nuxt. I started an open source project to play around without it ([m3tadata]()), feel free to contribute if you're interested.
