@@ -11,12 +11,6 @@ Get statistics and insights for this repository on [RepoTracker](https://repo-tr
 
 ## Projects
 
-### Wallets
-
-**[MyEtherWallet](https://www.myetherwallet.com/)**  
-Ethereum's Original Wallet.  
-_Stack: Vue_
-
 ### Layer 2+ scaling
 
 **[Polygon](https://polygon.technology/)**  
@@ -26,6 +20,18 @@ _Stack: Vue, Nuxt, Tailwind_
 **[zkSync](https://zksync.io)**  
 Layer 2 and 3 scaling solution for Ethereum.  
 _Stack: Vue, Nuxt, Headless UI, Ethers_
+
+### Wallets
+
+**[MyEtherWallet](https://www.myetherwallet.com/)**  
+Ethereum's Original Wallet.  
+_Stack: Vue_
+
+### Bridges
+
+**[Orbiter](https://www.orbiter.finance)**  
+Layer 2 Bridge.  
+_Stack: Vue, Ethers_
 
 ### Governance
 
