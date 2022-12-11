@@ -1,4 +1,4 @@
-# Web3 and DeFi projects built with Vue/Nuxt
+# Web3 projects built with Vue/Nuxt
 
 A list of web3 projects built with [Vue](https://vuejs.org/)/[Nuxt](https://nuxtjs.org/). Feel free to open a PR to add more projects to the list.
 
