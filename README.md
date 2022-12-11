@@ -8,6 +8,8 @@ In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started t
 
 Stack info is taken from [Weppalyzer](https://www.wappalyzer.com/).
 
+## Projects
+
 ### Layer 2+ scaling
 
 **[Polygon](https://polygon.technology/)**  
@@ -65,25 +67,28 @@ _Stack: Vue, Nuxt, Tailwind, Ethers, Vercel_
 All your investments in one platform: cryptocurrencies, stocks, ETFs, commodities, indices, precious metals.  
 _Stack: Vue, Bootstrap, UI Kit_
 
+## Tools
+
 ### Libraries
 
-**[Wagmi (core)](https://wagmi.sh/core/getting-started)**  
-A web3 library that first started as a collection of React hooks, but has now also a vanilla JS implementation that can be used in Vue and other frameworks.  
-_Stack: Ethers_
+**[wagmi (core)](https://wagmi.sh/core/getting-started)**  
+Collection of React hooks for Ethereum that also provides a Vanilla JS implementation for Vue and other frameworks. 
+
+**[vagmi](https://vagmi.vercel.app)**  
+Vue composables for Ethereum (heavily influenced by wagmi).   
 
 **[Vue Dapp](https://vue-dapp.netlify.app/)**  
-A Vue-native web3 library, an alternative to Wagmi.  
-_Stack: Vue, Ethers_
+A Vue-native web3 library (alternative to wagmi).  
 
 ### Starter templates
 
 **[Vue Dapp Starter](https://github.com/chnejohnson/vue3-dapp-starter)**  
-Starter templates that use Vue Dapp. See branches for different Vue variants.  
-_Stack: Vue, Vue Dapp, Ethers, Nuxt, Tailwind_
+Starter templates that use Vue Dapp.  
+_Stack: Vue, Nuxt, Tailwind, Ethers, Vue Dapp_
 
 **[Nuxt3 Wagmi Starter](https://github.com/tempe-techie/nuxt3-wagmi-starter)**  
-A minimal starter template with no UI library implemented.  
-_Stack: Nuxt, Wagmi, Ethers_
+Minimal starter template without any UI library.  
+_Stack: Nuxt, Ethers, Wagmi_
 
 ---
 
