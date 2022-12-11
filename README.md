@@ -2,11 +2,11 @@
 
 A list of web3 projects built with [Vue](https://vuejs.org/)/[Nuxt](https://nuxtjs.org/). Feel free to open a PR to add more projects to the list.
 
-In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started this open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)/[DeBank](https://debank.com/)-like wallet analytics tool with Nuxt 3 and [ethers.js](https://ethers.org/): **[MΞTAD🦧TA](https://github.com/toniengelhardt/m3tadata)**. Contributions welcome!
+In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started this open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)/[DeBank](https://debank.com/)-like wallet analytics tool with Nuxt 3 and [ethers.js](https://ethers.org/): 
+
+**[MΞTAD🦧TA](https://github.com/toniengelhardt/m3tadata)**
 
 Stack info is taken from [Weppalyzer](https://www.wappalyzer.com/).
-
-Get statistics and insights for this repository on [RepoTracker](https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects).
 
 ### Layer 2+ scaling
 
@@ -64,3 +64,5 @@ _Stack: Vue, Nuxt, Tailwind, Ethers, Vercel_
 **[Bitpanda](https://www.bitpanda.com/)**  
 All your investments in one platform: cryptocurrencies, stocks, ETFs, commodities, indices, precious metals.  
 _Stack: Vue, Bootstrap, UI Kit_
+
+Get statistics and insights for this repository on [RepoTracker](https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects).
