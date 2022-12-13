@@ -44,11 +44,15 @@ _Stack: Vue, Tailwind, Headless UI_
 Collectively funded longevity research.  
 _Stack: Vue, Tailwind_
 
-### Credentials
+### Credentials and identity
 
 **[Galxe](https://galxe.com)**  
 Collaborative credential infrastructure for brands and communities.  
 _Stack: Vue, Nuxt, Vuetify, Element UI, Ethers_
+
+**[Punk Domains](https://punk.domains)**  
+Punk Domains is a web3 name service/protocol that can issue multiple domain extensions, which is useful for DAOs and other web3 communities.  
+_Stack: Vue, Vue Dapp, Ethers, Bootstrap_  
 
 ### Communication
 
@@ -89,6 +93,10 @@ _Stack: Vue, Nuxt, Tailwind, Ethers, Vue Dapp_
 **[Nuxt3 Wagmi Starter](https://github.com/tempe-techie/nuxt3-wagmi-starter)**  
 Minimal starter template without any UI library.  
 _Stack: Nuxt, Ethers, Wagmi_
+
+**[Nuxt3 Vue Dapp Starter](https://github.com/tempe-techie/nuxt3-vuedapp-starter)**  
+Another minimal starter template without any UI library, but this time with Vue Dapp instead of Wagmi.  
+_Stack: Nuxt, Ethers, Vue Dapp_
 
 ---
 
