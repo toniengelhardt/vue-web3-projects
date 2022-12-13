@@ -44,15 +44,15 @@ _Stack: Vue, Tailwind, Headless UI_
 Collectively funded longevity research.  
 _Stack: Vue, Tailwind_
 
-### Credentials and identity
+### Credentials / Identity
 
 **[Galxe](https://galxe.com)**  
 Collaborative credential infrastructure for brands and communities.  
 _Stack: Vue, Nuxt, Vuetify, Element UI, Ethers_
 
 **[Punk Domains](https://punk.domains)**  
-Punk Domains is a web3 name service/protocol that can issue multiple domain extensions, which is useful for DAOs and other web3 communities.  
-_Stack: Vue, Vue Dapp, Ethers, Bootstrap_  
+Punk Domains is a web3 name service/protocol that can issue multiple domain extensions for DAOs, communities, etc.  
+_Stack: Vue, Bootstrap, Ethers, Vue Dapp_  
 
 ### Communication
 
@@ -87,16 +87,16 @@ A Vue-native web3 library (alternative to wagmi).
 ### Starter templates
 
 **[Vue Dapp Starter](https://github.com/chnejohnson/vue3-dapp-starter)**  
-Starter templates that use Vue Dapp.  
+Starter template based on Vue Dapp.  
 _Stack: Vue, Nuxt, Tailwind, Ethers, Vue Dapp_
 
-**[Nuxt3 Wagmi Starter](https://github.com/tempe-techie/nuxt3-wagmi-starter)**  
-Minimal starter template without any UI library.  
-_Stack: Nuxt, Ethers, Wagmi_
-
-**[Nuxt3 Vue Dapp Starter](https://github.com/tempe-techie/nuxt3-vuedapp-starter)**  
-Another minimal starter template without any UI library, but this time with Vue Dapp instead of Wagmi.  
+**[Nuxt Vue Dapp Starter](https://github.com/tempe-techie/nuxt3-vuedapp-starter)**  
+Minimal starter template based on Vue Dapp without any UI library.
 _Stack: Nuxt, Ethers, Vue Dapp_
+
+**[Nuxt Wagmi Starter](https://github.com/tempe-techie/nuxt3-wagmi-starter)**  
+Minimal starter template based on wagmi without any UI library.  
+_Stack: Nuxt, Ethers, Wagmi_
 
 ---
 
