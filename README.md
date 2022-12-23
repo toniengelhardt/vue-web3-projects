@@ -26,10 +26,14 @@ _Stack: Vue, Nuxt, Headless UI, Ethers_
 Ethereum's Original Wallet.  
 _Stack: Vue_
 
-### Bridges
+### Bridges / DEXs
 
 **[Orbiter](https://www.orbiter.finance)**  
 Layer 2 Bridge.  
+_Stack: Vue, Ethers_
+
+**[OpenOcean](https://app.openocean.finance)**  
+DEX with cross-chain swaps.  
 _Stack: Vue, Ethers_
 
 ### Governance
