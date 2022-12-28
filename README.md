@@ -36,6 +36,10 @@ _Stack: Vue, Ethers_
 DEX with cross-chain swaps.  
 _Stack: Vue, Ethers_
 
+**[Balancer](https://app.balancer.fi)**  
+OG decentralized exchange on Ethereum, Polygon, and Arbitrum.   
+_Stack: Vue, Ethers, Tailwind_   
+
 ### Governance
 
 **[Snapshot](https://snapshot.org/)**  
