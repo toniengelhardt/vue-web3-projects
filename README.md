@@ -75,9 +75,16 @@ Augmented smart contracts that are automated, gasless & off-chain aware.
 _Stack: Vue, Nuxt, Tailwind, Ethers, Vercel_
 
 ### Centralized Exchanges (CEX)  
+
 **[Bitpanda](https://www.bitpanda.com/)**  
 All your investments in one platform: cryptocurrencies, stocks, ETFs, commodities, indices, precious metals.  
 _Stack: Vue, Bootstrap, UI Kit_
+
+### Documentation
+
+**[Optimism Docs](https://community.optimism.io/)**  
+Documentation for Optimism.  
+_Stack: Vue, VuePress_
 
 ## Tools
 
