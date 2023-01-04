@@ -2,9 +2,7 @@
 
 A list of web3 projects built with [Vue](https://vuejs.org/)/[Nuxt](https://nuxtjs.org/). Feel free to open a PR to add more projects to the list.
 
-In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started this open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)/[DeBank](https://debank.com/)-like wallet analytics tool with Nuxt 3 and [ethers.js](https://ethers.org/): 
-
-**[MΞTAD🦧TA](https://github.com/toniengelhardt/m3tadata)**
+In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started this open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)-like EVM analytics tool with Nuxt 3 and ethers.js: **[MΞTAD🦧TA](https://github.com/toniengelhardt/m3tadata)**.
 
 Stack info is taken from [Weppalyzer](https://www.wappalyzer.com/).
 
