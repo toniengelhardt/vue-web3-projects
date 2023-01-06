@@ -44,6 +44,12 @@ _Stack: Vue, Ethers, Tailwind_
 Decentralized governance platform.  
 _Stack: Vue, Tailwind, Headless UI_
 
+### Grants / Funding
+
+**[Gitcoin](https://gitcoin.co/)**  
+Grants protocol to decentralize funding access.  
+_Stack: Vue, Ethers_
+
 ### Science
 
 **[VitaDAO](https://dao.vitadao.com/)**  
