@@ -2,9 +2,9 @@
 
 A list of web3 projects built with [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/). Feel free to open a PR to add more projects to the list.
 
-In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started this open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)-like EVM analytics tool with Nuxt 3 and ethers.js: **[MΞTAD🦧TA](https://github.com/toniengelhardt/m3tadata)**.
+In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started this open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)-like EVM analytics tool with Nuxt 3 and ethers.js: **[MΞRKL🧙🏽‍♂️N](https://github.com/toniengelhardt/merklin)**.
 
-Stack info is taken from [Weppalyzer](https://www.wappalyzer.com/).
+Stack info is taken from [Wappalyzer](https://www.wappalyzer.com/).
 
 ## Projects
 
@@ -37,6 +37,12 @@ _Stack: Vue, Ethers_
 **[Balancer](https://app.balancer.fi)**  
 OG decentralized exchange on Ethereum, Polygon, and Arbitrum.   
 _Stack: Vue, Ethers, Tailwind_   
+
+### Gambling
+
+**[SpotTheBall](https://spottheball.vercel.app)**
+Decentralized spot the ball attempt.
+_Stack: Vue, Nuxt, Ethers, Tailwind_
 
 ### Governance
 
