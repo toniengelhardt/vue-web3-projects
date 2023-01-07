@@ -1,6 +1,6 @@
 # Web3 projects built with Vue/Nuxt
 
-A list of web3 projects built with [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/). Feel free to open a PR to add more projects to the list.
+A list of web3 projects built with [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/). Feel free to open a PR to add more projects to the list, but note that the list is limited to mature projects with a decent size.
 
 In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started this open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)-like EVM analytics tool with Nuxt 3 and ethers.js: **[MΞRKL🧙🏽‍♂️N](https://github.com/toniengelhardt/merklin)**.
 
