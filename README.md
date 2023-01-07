@@ -38,12 +38,6 @@ _Stack: Vue, Ethers_
 OG decentralized exchange on Ethereum, Polygon, and Arbitrum.   
 _Stack: Vue, Ethers, Tailwind_   
 
-### Gambling
-
-**[SpotTheBall](https://spottheball.vercel.app)**
-Decentralized spot the ball attempt.
-_Stack: Vue, Nuxt, Ethers, Tailwind_
-
 ### Governance
 
 **[Snapshot](https://snapshot.org/)**  
