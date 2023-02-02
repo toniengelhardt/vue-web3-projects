@@ -24,6 +24,10 @@ _Stack: Vue, Nuxt, Headless UI, Ethers_
 Ethereum's Original Wallet.  
 _Stack: Vue_
 
+**[Send2.name](https://send2.name)**   
+A simple web app that allows you to send tokens to any web3 domain.   
+_Stack: Vue, Bootstrap, Ethers, Vue Dapp_   
+
 ### Bridges / DEXs
 
 **[Orbiter](https://www.orbiter.finance)**  
