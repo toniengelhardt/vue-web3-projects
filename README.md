@@ -119,4 +119,4 @@ _Stack: Nuxt, Ethers, Wagmi_
 
 ---
 
-Get statistics and insights for this repository on [RepoTracker](https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects).
+Development stats and insights for this repository are available via [RepoTracker](https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects).
