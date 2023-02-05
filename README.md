@@ -66,6 +66,12 @@ _Stack: Vue, Nuxt, Vuetify, Element UI, Ethers_
 Punk Domains is a web3 name service/protocol that can issue multiple domain extensions for DAOs, communities, etc.  
 _Stack: Vue, Bootstrap, Ethers, Vue Dapp_  
 
+### NFTs
+
+**[KODA](https://kodadot.xyz/)**  
+Kusama NFT platform.  
+_Stack: Vue, Nuxt_
+
 ### Communication
 
 **[Ethermail](https://ethermail.io/)**  
