@@ -21,7 +21,11 @@ _Stack: Vue, Nuxt, Headless UI, Ethers_
 ### Wallets
 
 **[MyEtherWallet](https://www.myetherwallet.com/)**  
-Ethereum's Original Wallet.  
+Ethereum's original wallet.  
+_Stack: Vue_
+
+**[Enkrypt](https://www.enkrypt.com/)**  
+Multichain crypto wallet.  
 _Stack: Vue_
 
 ### Bridges / DEXs
