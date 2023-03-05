@@ -1,8 +1,8 @@
 # Web3 projects built with Vue/Nuxt
 
-A list of web3 projects built with [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/). Feel free to open a PR to add more projects to the list, but note that the list is limited to mature projects with a decent size.
+A list of web3 projects built with [Vue](https://vuejs.org) and [Nuxt](https://nuxt.com). Feel free to open PRs to add more projects to the list, but note that the list should be limited to mature projects with a decent size.
 
-In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started the [🧙🏽‍♂️Merklin](https://github.com/toniengelhardt/merklin) ([merklin.xyz](https://app.merklin.xyz)) open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)-like web-only EVM analytics tool with Nuxt 3 and ethers.js.
+In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started the [MΞRKLIN](https://github.com/toniengelhardt/merklin) ([merklin.xyz](https://app.merklin.xyz)) open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)-like web-only Ethereum wallet explorer with Nuxt and ethers.js.
 
 Stack info is taken from [Wappalyzer](https://www.wappalyzer.com/).
 
@@ -129,4 +129,5 @@ _Stack: Nuxt, Ethers, Wagmi_
 
 ---
 
-Development stats and insights for this repository are available via [RepoTracker](https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects).
+Development stats for this repository are available via **[RepoTracker](https://repo-tracker.com)** at:  
+[https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects](https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects)
