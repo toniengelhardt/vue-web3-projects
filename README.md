@@ -42,8 +42,8 @@ _Stack: Vue, Ethers_
 OG decentralized exchange on Ethereum, Polygon, and Arbitrum.   
 _Stack: Vue, Ethers, Tailwind_   
 
-**[Increment Finance](https://app.increment.fi)**
-One-stop DeFi platform on the Flow blockchain.
+**[Increment Finance](https://app.increment.fi)**  
+One-stop DeFi platform on the Flow blockchain.  
 _Stack: Vue, Element UI_
 
 ### Governance
