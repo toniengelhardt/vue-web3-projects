@@ -28,7 +28,7 @@ _Stack: Vue_
 Multichain crypto wallet.  
 _Stack: Vue_
 
-### Bridges / DEXs
+### DEXs / Bridges / DeFi
 
 **[Orbiter](https://www.orbiter.finance)**  
 Layer 2 Bridge.  
@@ -41,6 +41,10 @@ _Stack: Vue, Ethers_
 **[Balancer](https://app.balancer.fi)**  
 OG decentralized exchange on Ethereum, Polygon, and Arbitrum.   
 _Stack: Vue, Ethers, Tailwind_   
+
+**[Increment Finance](https://app.increment.fi)**
+One-stop DeFi platform on the Flow blockchain.
+_Stack: Vue, Element UI_
 
 ### Governance
 
