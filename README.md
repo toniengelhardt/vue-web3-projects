@@ -54,7 +54,7 @@ _Stack: Vue, Tailwind, Headless UI_
 
 ### Grants / Funding
 
-**[Gitcoin](https://gitcoin.co/)**  
+**[Gitcoin Bounties](https://bounties.gitcoin.co)**  
 Grants protocol to decentralize funding access.  
 _Stack: Vue, Ethers_
 
