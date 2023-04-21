@@ -14,7 +14,7 @@ Stack info is taken from [Wappalyzer](https://www.wappalyzer.com/).
 Decentralised Ethereum scaling platform with low transaction fees.  
 _Stack: Vue, Nuxt, Tailwind_
 
-**[zkSync](https://zksync.io)**  
+**[zkSync](https://bridge.zksync.io)**  
 Layer 2 and 3 scaling solution for Ethereum.  
 _Stack: Vue, Nuxt, Headless UI, Ethers_
 
