@@ -18,6 +18,10 @@ _Stack: Vue, Nuxt, Tailwind_
 Layer 2 and 3 scaling solution for Ethereum.  
 _Stack: Vue, Nuxt, Headless UI, Ethers_
 
+**[ZK Space](https://zks.org)**  
+Layer-2 protocol based on ZK-rollups.  
+_Stack: Vue, Nuxt, Tailwind_
+
 ### Wallets
 
 **[MyEtherWallet](https://www.myetherwallet.com/)**  
