@@ -90,6 +90,11 @@ _Stack: Vue, Nuxt_
 Decentralized email service.  
 _Stack: Vue, Nuxt, Tailwind, Bootstrap_
 
+### Analytics
+**[Blockchair](https://blockchair.com)**  
+Blockchain Explorer and Analytics  
+_Stack: Vue_
+
 ### Automation
 
 **[Gelato](https://www.gelato.network)**  
