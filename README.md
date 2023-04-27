@@ -46,6 +46,10 @@ _Stack: Vue, Ethers, Tailwind_
 One-stop DeFi platform on the Flow blockchain.  
 _Stack: Vue, Element UI_
 
+**[SpaceFi](https://app.spacefi.io)**  
+Cross-chain web3 platform on Evmos and zkSync.  
+_Stack: Vue, Vue Material_
+
 ### Governance
 
 **[Snapshot](https://snapshot.org/)**  
