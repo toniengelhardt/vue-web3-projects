@@ -107,9 +107,15 @@ _Stack: Vue, Nuxt, Tailwind, Ethers, Vercel_
 
 ### Centralized Exchanges (CEX)  
 
-**[Bitpanda](https://www.bitpanda.com/)**  
+**[Bitpanda](https://www.bitpanda.com)**  
 All your investments in one platform: cryptocurrencies, stocks, ETFs, commodities, indices, precious metals.  
 _Stack: Vue, Bootstrap, UI Kit_
+
+### Funding
+
+**[clr.fund](https://clr.fund)**  
+Quadratic funding fund that matches individual contributions.  
+_Stack: Vue_
 
 ### Documentation
 
