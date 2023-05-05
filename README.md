@@ -60,6 +60,12 @@ _Stack: Vue, Vue Material_
 Decentralized governance platform.  
 _Stack: Vue, Tailwind, Headless UI_
 
+### Storage
+
+**[IPFS](https://ipfs.tech)**  
+A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge.  
+_Stack: Vue, Nuxt_
+
 ### Grants / Funding
 
 **[Gitcoin Bounties](https://bounties.gitcoin.co)**  
