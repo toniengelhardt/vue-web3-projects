@@ -18,10 +18,6 @@ _Stack: Vue, Nuxt, Tailwind_
 Layer 2 and 3 scaling solution for Ethereum.  
 _Stack: Vue, Nuxt, Headless UI, Ethers_
 
-**[ZKSpace](https://zks.org)**  
-Layer-2 protocol based on ZK-rollups.  
-_Stack: Vue, Nuxt, Tailwind_
-
 ### Wallets
 
 **[MyEtherWallet](https://www.myetherwallet.com/)**  
@@ -45,10 +41,6 @@ _Stack: Vue, Ethers_
 **[Balancer](https://app.balancer.fi)**  
 OG decentralized exchange on Ethereum, Polygon, and Arbitrum.   
 _Stack: Vue, Ethers, Tailwind_   
-
-**[Increment Finance](https://app.increment.fi)**  
-One-stop DeFi platform on the Flow blockchain.  
-_Stack: Vue, Element UI_
 
 **[SpaceFi](https://app.spacefi.io)**  
 Cross-chain web3 platform on Evmos and zkSync.  
@@ -159,4 +151,4 @@ _Stack: Nuxt, Ethers, Wagmi_
 ---
 
 Development stats for this repository are available via **[RepoTracker](https://repo-tracker.com)** at:  
-[https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects](https://repo-tracker.com/r/gh/toniengelhardt/web3-vue-and-nuxt-projects)
+[https://repo-tracker.com/r/gh/toniengelhardt/vue-web3-projects](https://repo-tracker.com/r/gh/toniengelhardt/vue-web3-projects)
