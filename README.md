@@ -1,8 +1,8 @@
 # Web3 projects built with Vue/Nuxt
 
-A list of web3 projects built with [Vue](https://vuejs.org) and [Nuxt](https://nuxt.com). Feel free to open PRs to add more projects to the list, but note that the list should be limited to mature projects with a decent size.
+A list of web3 projects built with [Vue](https://vuejs.org) and [Nuxt](https://nuxt.com). 
 
-In case you want to play around with web3 in the Vue/Nuxt ecosystem, I started the [MΞRKLIN](https://github.com/toniengelhardt/merklin) ([merklin.xyz](https://app.merklin.xyz)) open-source project to build a [Zapper](https://zapper.fi/)/[Zerion](https://app.zerion.io/)-like web-only Ethereum wallet explorer with Nuxt and ethers.js.
+Feel free to open PRs, but note that the list should be limited to mature projects with a decent size.
 
 Stack info is taken from [Wappalyzer](https://www.wappalyzer.com/).
 
@@ -10,13 +10,13 @@ Stack info is taken from [Wappalyzer](https://www.wappalyzer.com/).
 
 ### Layer 2+ scaling
 
-**[Polygon](https://polygon.technology/)**  
-Decentralised Ethereum scaling platform with low transaction fees.  
-_Stack: Vue, Nuxt, Tailwind_
-
 **[zkSync](https://bridge.zksync.io)**  
 Layer 2 and 3 scaling solution for Ethereum.  
 _Stack: Vue, Nuxt, Headless UI, Ethers_
+
+**[Polygon](https://polygon.technology/)**  
+Decentralised Ethereum scaling platform with low transaction fees.  
+_Stack: Vue, Nuxt, Tailwind_
 
 ### Wallets
 
@@ -30,6 +30,10 @@ _Stack: Vue_
 
 ### DEXs / Bridges / DeFi
 
+**[Balancer](https://app.balancer.fi)**  
+OG decentralized exchange on Ethereum, Polygon, and Arbitrum.   
+_Stack: Vue, Ethers, Tailwind_   
+
 **[Orbiter](https://www.orbiter.finance)**  
 Layer 2 Bridge.  
 _Stack: Vue, Ethers_
@@ -37,14 +41,6 @@ _Stack: Vue, Ethers_
 **[OpenOcean](https://app.openocean.finance)**  
 DEX with cross-chain swaps.  
 _Stack: Vue, Ethers_
-
-**[Balancer](https://app.balancer.fi)**  
-OG decentralized exchange on Ethereum, Polygon, and Arbitrum.   
-_Stack: Vue, Ethers, Tailwind_   
-
-**[SpaceFi](https://app.spacefi.io)**  
-Cross-chain web3 platform on Evmos and zkSync.  
-_Stack: Vue, Vue Material_
 
 ### Governance
 
@@ -140,7 +136,7 @@ A Vue-native web3 library (alternative to wagmi).
 Starter template based on Vue Dapp.  
 _Stack: Vue, Nuxt, Tailwind, Ethers, Vue Dapp_
 
-**[Nuxt Vue Dapp Starter](https://github.com/tempe-techie/nuxt3-vuedapp-starter)**  
+**[Nuxt Dapp Starter](https://github.com/tempe-techie/nuxt3-vuedapp-starter)**  
 Minimal starter template based on Vue Dapp without any UI library.
 _Stack: Nuxt, Ethers, Vue Dapp_
 
@@ -150,5 +146,4 @@ _Stack: Nuxt, Ethers, Wagmi_
 
 ---
 
-Development stats for this repository are available via **[RepoTracker](https://repo-tracker.com)** at:  
-[https://repo-tracker.com/r/gh/toniengelhardt/vue-web3-projects](https://repo-tracker.com/r/gh/toniengelhardt/vue-web3-projects)
+Development stats for this repository are available [here](https://repo-tracker.com/r/gh/toniengelhardt/vue-web3-projects) via [RepoTracker](https://repo-tracker.com).
